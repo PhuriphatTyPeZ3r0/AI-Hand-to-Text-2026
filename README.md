@@ -128,7 +128,7 @@ AI-Hand-to-Text-2026/
 ## 👨‍💻 ผู้พัฒนา (Author)
 
 **Phuriphat Hemakul (PhuriphatTyPeZ3r0)**
-- 🎓 นักศึกษา สาขาวิศวกรรมคอมพิวเตอร์และปัญญาประดิษฐ์ (CPE & AI)
+- 🎓 นักศึกษา สาขาวิศวกรรมคอมพิวเตอร์และปัญญาประดิษฐ์ (PIM CAI)
 - 🏛️ สถาบันการจัดการปัญญาภิวัฒน์ (PIM)
 - 🐙 GitHub: [@PhuriphatTyPeZ3r0](https://github.com/PhuriphatTyPeZ3r0)
 - 🌐 Portfolio: [resume-phuriphat-hemakul.vercel.app](https://resume-phuriphat-hemakul.vercel.app)
